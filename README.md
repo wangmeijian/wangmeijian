@@ -10,6 +10,6 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | HTML | CSS   
-- 🎓 &ngsp; Webpack | SVG | D3 | ECharts | ES6 | 
+- 🎓 &nbsp; Webpack | SVG | D3 | ECharts | ES6 | 
 - 🔧 &nbsp; Git | Visual Studio code | iTerm
 - 🌐 &nbsp; Web To B |  Web To C | Chrome插件 | 小程序
