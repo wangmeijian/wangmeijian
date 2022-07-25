@@ -5,14 +5,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; 前端开发者
-- 🌱 &nbsp; [@ant-design](https://github.com/ant-design/pro-components)贡献者
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Javascript | HTML | CSS   
-- 🎓 &nbsp; Webpack | SVG | D3 | ECharts | ES6 | 
-- 🔧 &nbsp; Git | Visual Studio code | iTerm
-- 🌐 &nbsp; Web To B |  Web To C | Chrome插件 | 小程序
+- 🌱 &nbsp; [@ant-design](https://github.com/ant-design/pro-components)开源贡献者
+- 💻 &nbsp; 熟悉React技术栈，深耕大型To B项目8年+
 
 <h3>🤔 Contact Me</h3>
 
