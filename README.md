@@ -5,9 +5,20 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; 前端开发者
-- 🌱 &nbsp; [@ant-design](https://github.com/ant-design/pro-components)开源贡献者
-- 💻 &nbsp; 熟悉React技术栈，深耕大型To B项目8年+
+- 🌱 &nbsp; [@ant-design](https://github.com/ant-design/pro-components) Contributor
+- 🌱 &nbsp; [@rect-component](https://github.com/react-component) Contributor
 
-<h3>🤔 Contact Me</h3>
+<h3>💻 My Project</h3>
+
+<h4>1. 浏览器插件 - 自动剪切板 1500+用户</h4>
+<img align="left" src="https://github.com/wangmeijian/auto_clipboard/raw/main/extension/images/icon@128.png" height="46" />  
+
+Chrome版  
+Edge版  
+
+<h4 style="clear: both;">2. 微信小程序 - 羽毛球记分工具 10000+用户</h4>
+<img align="left" src="image/qrcode.png" width="200" />  
+
+<h3 style="clear: both;">🤔 Contact Me</h3>
 
 &nbsp; <a href="mailto:wangmeijian2016@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
