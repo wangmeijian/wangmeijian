@@ -4,7 +4,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; 前端开发者
 - 🌱 &nbsp; [@ant-design](https://github.com/ant-design/pro-components) Contributor
 - 🌱 &nbsp; [@rect-component](https://github.com/react-component) Contributor
 
