@@ -9,7 +9,7 @@
 
 <h3>💻 My Project</h3>
 
-<h4>1. 浏览器插件 - 自动剪切板 1500+用户</h4>
+<h4>1. 浏览器插件 - 自动剪切板 2000+用户</h4>
 <img align="left" src="https://github.com/wangmeijian/auto_clipboard/raw/main/extension/images/icon@128.png" height="46" />  
 
 [Chrome版](https://chrome.google.com/webstore/detail/inhnhgihdkbalmmojcbpalkkmhkmcdjm)  
