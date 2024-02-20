@@ -15,7 +15,7 @@
 [Chrome版](https://chrome.google.com/webstore/detail/inhnhgihdkbalmmojcbpalkkmhkmcdjm)  
 [Edge版](https://microsoftedge.microsoft.com/addons/detail/oecjpmpbghigjifackhbapkamgaemnkj)  
 
-<h4 style="clear: both;">2. 微信小程序 - 羽毛球记分工具 10000+用户</h4>
+<h4 style="clear: both;">2. 微信小程序 - 羽毛球记分工具 26000+用户</h4>
 <img src="image/qrcode.png" width="360" />  
 
 <h3>🤔 Contact Me</h3>
